@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Ashley\\Documents\\Computing notes\\DiscordBot\\discord-bot\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Ashley\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Ashley\\Documents\\FYP\\App\\fyp_app\\android\\app\\.cxx\\RelWithDebInfo\\556mp5z7\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Ashley\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Ashley\\Documents\\FYP\\App\\fyp_app\\android\\app\\.cxx\\RelWithDebInfo\\556mp5z7\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

@@ -1,0 +1,2 @@
+C:/Users/Ashley/Documents/FYP/App/fyp_app/android/app/.cxx/Debug/1p2k6x5r/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Ashley/Documents/FYP/App/fyp_app/android/app/.cxx/Debug/1p2k6x5r/armeabi-v7a/CMakeFiles/rebuild_cache.dir
